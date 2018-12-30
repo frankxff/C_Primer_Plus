@@ -1,4 +1,6 @@
 # C-Primer-Plus
-
-包含《C Primer Plus》一书中所有示例代码和每章编程练习。
+All sample code and each chapter programming exercise in the book C Primer Plus. Uploading...
+《C Primer Plus》一书中所有示例代码和每章编程练习。
 陆续上传中...
+
+
