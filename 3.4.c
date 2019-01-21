@@ -1,5 +1,6 @@
 /*
-toobig.c
+toobig.c 
+Òç³ö 
 */
 
 #include<stdio.h> 

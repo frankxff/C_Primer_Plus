@@ -22,7 +22,8 @@ int main()
 	volume = weight/DENSITY;
 	printf("Well,%s,your volume is %2.2f cubic feet.\n",name,volume);
 	printf("Also,your first name has %d letters,\n",letters);
-	printf("and we have %d bytes to store it.\n",size);	
+	printf("and we have %d bytes to store it.\n",size);
+	 	
 	
 	
 	
